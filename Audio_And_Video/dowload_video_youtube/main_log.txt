@@ -1,4 +1,0 @@
-2024-09-21 00:40:49,603 - Start downloading videos
-2024-09-21 00:40:49,858 - Title video: Traces of time in love / Niên Luân Thuy\u1ebft / \u5e74\u8f2a\u8aaa
-2024-09-21 00:40:51,061 - There was an error during the download, try another way
-2024-09-21 00:40:57,332 - Complete the download process...!
